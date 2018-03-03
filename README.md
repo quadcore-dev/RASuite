@@ -1,7 +1,7 @@
-RASuite
+RALibRetro
 =======
 
-All emulators used for interfacing with RetroAchievements.org
+This Project is a fork of RASuite which uses the Libretro emulator cores.  It is currently in beta testing.
 
 <h2>Prerequisites</h2>
 <i>This is to build the C++ dll as-is w/ Visual Studio 2017</i>
